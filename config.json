@@ -3,10 +3,10 @@
     "specificItems": {
         "enabled": false,
         "sendingItems": [
-            "19027209",
-            "16678138",
-            "16477149823",
-            "130106618"
+            "130106618","15926904","16678138","49939639",
+            "15926904","153474594","14129301","19027209",
+            "16678138","19027209","130106618","10467173753",
+            "49939639","658757624"
 
         ],
         "receivingItems": [
@@ -24,6 +24,7 @@
         "upgrade": false,
         "downgrade": false,
         "any": true,
+        "onlyTagsNoReceiveItems": true,  
         "minSendItems": 3,
         "maxSendItems": 4,
         "minReceiveItems": 1,
@@ -38,7 +39,7 @@
         "minTotalRequestValue": 400,
         "maxTotalRequestValue": 1000000000,
         "minUpgPercent": 3,
-        "maxUpgPercent": 7,
+        "maxUpgPercent": 5,
         "minDgPercent": 0,
         "maxDgPercent": 4,
         "minDemand": 2,
@@ -47,7 +48,8 @@
         "tags": [
             "upgrade",
             "projecteds",
-            "adds"
+            "downgrade",
+            "any"
         ],
         "_tagOptions": ["adds", "upgrade", "downgrade", "any", "wishlist", "demand", "rares", "rap", "robux", "projecteds"]
     }
