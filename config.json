@@ -3,7 +3,7 @@
     "specificItems": {
         "enabled": true,
         "sendingItems": [
-            "182640918",
+            "false",
             "323191979",
             "10911965"
         ],
@@ -17,7 +17,7 @@
         "_tagOptions": ["adds", "upgrade", "downgrade", "any", "wishlist", "demand", "rares", "rap", "robux", "projecteds"]
     },
     "smartAlgo": {
-        "enabled": false,
+        "enabled": true,
         "upgrade": false,
         "downgrade": false,
         "any": true,
